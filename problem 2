@@ -1,0 +1,7 @@
+#Problem2
+a = input("type a number")
+b = input("type a number")
+if a + b == 10:
+    print("it is equal to 10")
+else:
+    print("it is greater than or less than 10")
