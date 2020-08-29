@@ -1,0 +1,10 @@
+#Problem3
+import random
+prob = random.random()
+print(prob)
+number = range(1,5)
+print(number)
+if number == range(1,5):
+    print("The number 5 is here")
+else:
+    print("The number 5 is not here")
