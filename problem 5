@@ -1,0 +1,15 @@
+#Problem5
+list1 = [pan, paper, idea, rope, groceries]
+debuffs = [slow]
+if list1 == [rope, coat, firstaidkit] and debuffs != [slow]: 
+    print("you can traverse the mountains")
+else:
+    print("finish gathering your items and cure any debuffs!")
+if list1 == [pan, paper, idea, rope, groceries] and debuffs != [small]:
+    print("You can cook a meal")
+else:
+    print("finish gathering your items and cure any debuffs!")
+if list1 == [pan, pen, paper, idea, rope, groceries] and debuffs != [confusuon]:
+    print("you can write a book")
+else:
+    print("finish gathering your items and cure any debuffs!")
