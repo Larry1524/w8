@@ -1,0 +1,7 @@
+#Problem1
+x = input("Type a number")
+y = input("type a number")
+if x == y:
+    print("they are equal")
+else:
+    print("they are not equal")
